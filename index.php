@@ -68,7 +68,6 @@
         integrity="sha384-gfdkjb5BdAXd+lj+gudLWI+BXq4IuLW5IT+brZEZsLFm++aCMlF1V92rMkPaX4PP" crossorigin="anonymous">
 </head>
 
-
 <body>
     <div class="container h-100">
         <div class="d-flex justify-content-center h-100">
